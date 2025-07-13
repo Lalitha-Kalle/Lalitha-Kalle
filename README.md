@@ -1,29 +1,65 @@
-<h1 align="center">Hi 👋, I'm Kalle Lalitha</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Lalitha Kalle</h1>
+<h3 align="center">Backend Developer | CSE Student | Tech Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitha-kalle&label=Profile%20views&color=0e75b6&style=flat" alt="lalitha-kalle" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitha-kalle" alt="lalitha-kalle" /></a> </p>
+### 🚀 About Me
 
-- 🔭 I’m currently working on [Event Aggreator](https://github.com/Lalitha-Kalle/Event-Aggregator/)
+- 🎓 Final-year B.Tech Computer Science student
+- 🧑‍💻 Passionate about backend development, clean architecture, and scalable systems  
+- 💡 Built real-world projects using **Node.js**, **Express**, **MongoDB**, **MySQL**, and **Sequelize**  
+- 🔐 Experienced with JWT auth, RESTful APIs, Nodemailer, and OAuth 2.0 
+- 🧠 Solved 250+ problems on **LeetCode** to sharpen DSA and logic skills  
+- 🛠️ Currently exploring: **Docker**, **OAuth**, and microservices  
 
-- 🌱 I’m currently learning **Backend Technologies**
+---
 
-- 💬 Ask me about **Backend Development**
+### 🌟 Featured Projects
 
-- 📫 How to reach me **kallelalitha04@gmail.com**
+#### 🔄 [Subscription Tracker](https://github.com/Lalitha-Kalle/Subscription-tracker)
+> A backend system for managing recurring subscriptions with auto-renewal, cancellation, and email alerts.  
+`Node.js | Express | MongoDB | JWT | Nodemailer`
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LM84det7smcdYrFLY2m0J2gJ89cVDW6J/view?usp=drive_link](https://drive.google.com/file/d/1LM84det7smcdYrFLY2m0J2gJ89cVDW6J/view?usp=drive_link)
+#### ✈️ [Flight Search Service](https://github.com/Lalitha-Kalle/FlightsSearchService)
+> A backend service managing cities, airports, and flights using clean REST APIs and Sequelize ORM.  
+`Node.js | MySQL | Sequelize | MVC Architecture`
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🧰 Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/lalitha-kalle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lalitha-kalle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kallelalitha04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kallelalitha04" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40" alt="Sequelize"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitha-kalle&show_icons=true&locale=en&layout=compact" alt="lalitha-kalle" /></p>
+### 🎯 Goals for 2025
+- ✅ Contribute to open source
+- 🧪 Work on microservices and system design
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitha-kalle&show_icons=true&locale=en" alt="lalitha-kalle" /></p>
+---
+
+### 💡 Fun Fact
+
+> Sometimes the fix comes *after* the break — not before. 🎧
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: kallelalitha04@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/lalitha-kalle](https://linkedin.com/in/lalitha-kalle)  
+- 💻 GitHub: [github.com/Lalitha-Kalle](https://github.com/Lalitha-Kalle)
+
+---
+
+⭐ *Thanks for stopping by! Feel free to explore my repos, connect, or collaborate on cool backend ideas!*
